@@ -1,7 +1,5 @@
 # 👋 别来无恙
 
-一些我会的东西（搞得好像谁不会似的🙄）
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwindcss,vite,nodejs,bun,wasm,java,kotlin,py,tauri,neovim,figma&theme=light)](https://skillicons.dev)
 
 ## 🚀 关于我
